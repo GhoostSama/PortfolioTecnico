@@ -23,3 +23,4 @@ Eu tenho dois sonhos, um deles é virar programador (e é por isso que estou aqu
 
 Já falei bastante sobre mim, agora irei falar um pouco sobre os repositórios. 
 Eles são uma forma de guarda/armazerna/arquivar arquivos diversos e também podem possuir mais de um tipo de Repositório, sendo eles os de acesso aberto, e os repositórios educacionais
+Nesse repositório encontraremos atividades feitas ao longo dos anos educacionais, e assim como outras coisas. 
