@@ -1,0 +1,19 @@
+Na entrada usamos as cores laranja,azul,azul bebe, roxo e verde.
+
+ A entrada será usada para escolher a região para ser mostrado advogados na área,com fundo de uma equipe trabalhando para mostrar o esforço em equipe.
+
+
+A segunda mostra três advogados, com distintas áreas, como Thiago que trabalha na área criminalista e Juliana que age na área digital,para melhorar a comunicação dos clientes e dos advogados foi colocado um chat entre os dois,e mostrando ao lado a localidade dos advogados citados.
+
+
+O terceiro será usado para mostrar a nossa advocacia para pessoas mais velhas que não entendem o uso do chat e junto uma avaliação de 5 estrelas
+
+Tentamos com as cores disponíveis trazer mais e mais um aspecto parecido com uma advocacia, por isso, pegamos alguns significados específicos na qual aquelas cores representam
+
+como:
+
+Roxo = Respeito
+Laranja = atrai consumidores
+verde = Relaxamento
+Azul = Um tom mais escuro e mais profissionalizado 
+Azul claro = sensação de sucesso e conquista.
