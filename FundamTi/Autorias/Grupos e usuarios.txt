@@ -1,0 +1,11 @@
+﻿sudo adduser [Nome do usuário] — Adiciona um novo usuário ao sistema operacional linux 
+sudo addgroup [Nome do grupo] — A mesma coisa, porém dessa vez um grupo de usuários
+
+
+Para adicionar um usuário a um grupo específico, basta colocar 
+
+
+Sudo addgroup [Usuário] [Grupo] — Nota-se que o usuário e o grupo já devem estar criados posteriormente
+
+
+sudo su [Usuario] — comando para entrar no usuário desejado

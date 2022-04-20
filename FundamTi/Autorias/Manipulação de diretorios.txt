@@ -1,0 +1,8 @@
+﻿Mkdir — Como o nome diz, ele é um comando para criar diretórios (Make directory) 
+Rm — Remove, basicamente ele pode remover ou renomear algum arquivo/diretório
+Cd — um dos comandos mais importantes, pois com ele você pode entrar e sair de diretórios
+Pwd — Encontra o caminho do arquivo/diretório
+Cat — Lê o arquivo
+Echo — escreve no arquivo (se usado com >> você substitui o texto anterior) 
+Touch — cria um arquivo vazio, caso adicione a extensão do arquivo na hora de dar o nome, ele cria ele com aquela extensão
+Exemplo: Teste (Arquivo vazio), Teste.txt (arquivo .txt)
