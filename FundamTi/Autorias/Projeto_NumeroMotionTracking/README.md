@@ -5,6 +5,12 @@
   
   ## Código do projeto. 
   
+  
+## Vídeo de funcionamento
+
+[![Caption](https://www.iconpacks.net/icons/1/free-video-icon-818-thumb.png)](https://github.com/GhoostSama/PortfolioTecnico/blob/main/FundamTi/Autorias/Projeto_NumeroMotionTracking/WhatsApp%20Video%202022-06-24%20at%2010.49.50.mp4)]
+
+  
   ```#include <Ultrasonic.h>
 #define pino_trigger 4
 #define pino_echo 2
@@ -68,8 +74,4 @@ void loop() {
   
   
   delay(500);
-}```	
-
-## Vídeo de funcionamento
-
-[![Clique na imagem para ir ao vídeo!](https://icon-icons.com/pt/icone/arquivo-tipo-arduino/130743)(https://github.com/GhoostSama/PortfolioTecnico/blob/main/FundamTi/Autorias/Projeto_NumeroMotionTracking/WhatsApp%20Video%202022-06-24%20at%2010.49.50.mp4)]
+}```  
