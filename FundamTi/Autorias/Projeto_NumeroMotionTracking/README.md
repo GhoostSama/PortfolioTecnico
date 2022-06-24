@@ -3,13 +3,14 @@
   Esse projeto autoral é uma tela e um sensor de movimento, a nossa tentativa é toda vez que a mão estiver proxima do sensor.
   Os numeros vão de segundo a segundo subindo  
   
-  ## Código do projeto. 
+
   
   
 ## Vídeo de funcionamento
 
 [![Caption](https://www.iconpacks.net/icons/1/free-video-icon-818-thumb.png)](https://github.com/GhoostSama/PortfolioTecnico/blob/main/FundamTi/Autorias/Projeto_NumeroMotionTracking/WhatsApp%20Video%202022-06-24%20at%2010.49.50.mp4)]
 
+## Código do projeto. 
   
   ```#include <Ultrasonic.h>
 #define pino_trigger 4
