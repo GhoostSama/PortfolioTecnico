@@ -6,9 +6,12 @@
 
   
   
-## Vídeo de funcionamento
+## Vídeo de funcionamento — Com descrição.
 
-[![Caption](https://www.iconpacks.net/icons/1/free-video-icon-818-thumb.png)](https://github.com/GhoostSama/PortfolioTecnico/blob/main/FundamTi/Autorias/Projeto_NumeroMotionTracking/WhatsApp%20Video%202022-06-24%20at%2010.49.50.mp4)]
+O Projeto reage quando a mão (ou qualquer coisa) esteja proximo, assim começando o timer.
+
+![Projeto em funcionamento](https://github.com/GhoostSama/PortfolioTecnico/blob/main/FundamTi/Autorias/Projeto_NumeroMotionTracking/ProjetoArduino(autoria).gif?raw=true)
+
 
 ## Código do projeto. 
   
