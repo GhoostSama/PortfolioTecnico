@@ -12,6 +12,7 @@ O Projeto reage quando a mão (ou qualquer coisa) esteja proximo, assim começan
 
 ![Projeto em funcionamento](https://github.com/GhoostSama/PortfolioTecnico/blob/main/FundamTi/Autorias/Projeto_NumeroMotionTracking/ProjetoArduino(autoria).gif?raw=true)
 
+Quando longe, o projeto para o timer junto da contagem, que permanece no número que estava
 
 ## Código do projeto. 
   
