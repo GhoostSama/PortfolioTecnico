@@ -1,0 +1,58 @@
+package atividadeprisma;
+
+import javax.swing.JOptionPane;
+
+public class AtividadePrisma {
+
+    public static void main(String[] args) {
+        escolha();
+    }
+
+public static double AtPrisma(){
+    double Ab = Double.parseDouble(JOptionPane.showInputDialog("Insira Ab"));
+    double N = Double.parseDouble(JOptionPane.showInputDialog("Insira N"));
+    double F = Double.parseDouble(JOptionPane.showInputDialog("Insira F"));
+    return 2*Ab+N*F;
+    
+}
+
+public static double AbPrisma(){
+    double At = Double.parseDouble(JOptionPane.showInputDialog("Insira At"));
+    double N = Double.parseDouble(JOptionPane.showInputDialog("Insira N"));
+    double F = Double.parseDouble(JOptionPane.showInputDialog("Insira F"));
+    return (At - N*F)/2;
+}
+
+public static double NPrisma(){
+    double Ab = Double.parseDouble(JOptionPane.showInputDialog("Insira Ab"));
+    double At = Double.parseDouble(JOptionPane.showInputDialog("Insira At"));
+    double F = Double.parseDouble(JOptionPane.showInputDialog("Insira F"));
+    return (At-2*Ab)/F;
+    
+}
+public static double FPrisma(){
+    double Ab = Double.parseDouble(JOptionPane.showInputDialog("Insira Ab"));
+    double At = Double.parseDouble(JOptionPane.showInputDialog("Insira At"));
+    double N = Double.parseDouble(JOptionPane.showInputDialog("Insira F"));
+    return (At-2*Ab)/N;
+}
+public static void escolha(){
+    int escolha = Integer.parseInt(JOptionPane.showInputDialog("1 para Area total\n2 para Area da Base\n3 para número de faces\n4 para Área da Face"));
+    switch (escolha){
+            case 1:
+            JOptionPane.showMessageDialog(null,AtPrisma());
+            break;
+            case 2: 
+            JOptionPane.showMessageDialog(null,AbPrisma());
+            break;
+            case 3:
+            JOptionPane.showMessageDialog(null,NPrisma());
+            break;
+            case 4: 
+            JOptionPane.showMessageDialog(null,FPrisma());
+            break;
+            default: 
+            JOptionPane.showMessageDialog(null, "Não é uma opção válida!");
+        } 
+}
+}
